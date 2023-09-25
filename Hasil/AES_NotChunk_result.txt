@@ -1,0 +1,6 @@
+File: file1GB.bin, Process: AES_NotChunk
+Encryption Time: 4.868717 seconds
+Decryption Time: 4.105344 seconds
+Memory Usage Enc: 1047.28 MB
+Memory Usage Dec: 2071.25 MB
+---
