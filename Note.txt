@@ -1,0 +1,2 @@
+Buatlah pengujian untuk melakukan pengujian performance time dan memory usage pada proses pembacaan file 1GB dengan kondisi pembacaan per 100kb. 
+Kemudian bandingkan proses melakukan enkripsi dengan penulisan langsung 1GB dan dengan melakukan chunk per 100kb.
